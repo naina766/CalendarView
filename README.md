@@ -1,7 +1,7 @@
 # Calendar View Component
 
 ## Live Storybook
-[View Live Storybook](https://calendar-view-yourname.vercel.app)
+[View Live Storybook](https://calendarviews.vercel.app)
 
 ## Installation
 Clone the repository and install dependencies:
