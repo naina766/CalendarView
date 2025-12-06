@@ -7,7 +7,7 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/calendar-view-yourname.git
+git clone https://github.com/naina766/calendar-view-yourname.git
 cd calendar-view-yourname
 npm install
 npm run dev        # Start development server
