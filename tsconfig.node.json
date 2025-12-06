@@ -39,7 +39,8 @@
     "noUnusedParameters": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "allowJs": false
+    "allowJs": false,
+    "allowImportingTsExtensions": true
   },
   "include": ["src", ".storybook"]
 }
