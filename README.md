@@ -77,3 +77,20 @@ Known Limitations
 Drag-to-create events is partially implemented (future improvement)
 Advanced animations with Framer Motion not implemented
 LocalStorage persistence for events not included
+
+## 📷 Screenshots / Demo
+
+<img width="902" height="677" alt="Screenshot 2025-12-07 001210" src="https://github.com/user-attachments/assets/b3d9771e-e80d-426e-8e80-07f460500015" />
+
+<img width="893" height="697" alt="image" src="https://github.com/user-attachments/assets/7a0aeb85-e3bf-4518-a1a0-6e5e9c202324" />
+
+<img width="308" height="326" alt="image" src="https://github.com/user-attachments/assets/6687b8b6-431e-44d9-af39-d206c61859fa" />
+
+
+## 🚀 Live Demo
+
+https://calendarviews.vercel.app/
+
+## 💻 GitHub Repository
+
+https://github.com/naina766/CalendarView/
