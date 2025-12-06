@@ -16,6 +16,7 @@ npm run storybook  # Start Storybook
 ### Architecture
 
 The project is structured to follow scalable component design:
+```bash
 calendar-component/
 ├── src/
 │   ├── components/
@@ -33,7 +34,7 @@ calendar-component/
 │       ├── date.utils.ts
 │       └── event.utils.ts
 └── .storybook/       # Storybook configuration
-
+```
 ## Features
 
  1. Month & Week views
@@ -66,7 +67,7 @@ calendar-component/
 8. Performance Optimizations
 9. React.memo for expensive components
 
- ##Accessibility
+ ## Accessibility
 
 Full keyboard navigation
 Proper ARIA roles and labels
