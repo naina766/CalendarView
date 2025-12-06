@@ -7,12 +7,12 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/naina766/calendar-view-yourname.git
+git clone [https://github.com/naina766/CalendarView.git]
 cd calendar-view-yourname
 npm install
 npm run dev        # Start development server
 npm run storybook  # Start Storybook
-
+```
 ### Architecture
 
 The project is structured to follow scalable component design:
