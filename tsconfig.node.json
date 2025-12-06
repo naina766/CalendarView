@@ -1,46 +1,26 @@
-// {
-//   "compilerOptions": {
-//     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
-//     "target": "ES2023",
-//     "lib": ["ES2023"],
-//     "module": "ESNext",
-//     "types": ["node"],
-//     "skipLibCheck": true,
-
-//     /* Bundler mode */
-//     "moduleResolution": "bundler",
-//     "allowImportingTsExtensions": true,
-//     "verbatimModuleSyntax": true,
-//     "moduleDetection": "force",
-//     "noEmit": true,
-
-//     /* Linting */
-//     "strict": true,
-//     "noUnusedLocals": true,
-//     "noUnusedParameters": true,
-//     "erasableSyntaxOnly": true,
-//     "noFallthroughCasesInSwitch": true,
-//     "noUncheckedSideEffectImports": true
-//   },
-//   "include": ["vite.config.ts"]
-// }
 {
   "compilerOptions": {
-    "target": "ES2022",
-    "lib": ["DOM", "ES2022"],
-    "jsx": "react-jsx",
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
+    "target": "ES2023",
+    "lib": ["ES2023"],
     "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "strict": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
+    "types": ["node"],
     "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+
+    /* Linting */
+    "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "allowJs": false,
-    "allowImportingTsExtensions": true
+    "erasableSyntaxOnly": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedSideEffectImports": true
   },
-  "include": ["src", ".storybook"]
+  "include": ["vite.config.ts"]
 }
